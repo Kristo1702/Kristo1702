@@ -1,6 +1,6 @@
 ## Well, hello there 👋
 
-i'm a software engineer student at Aalborg University (AAU), with a background in physics from Copenhagen University.
+i'm a software engineer student at Aalborg University (AAU), with a background in physics from Copenhagen University (KU).
 
 ### Programming language i work in (ranked in level of confidence):
 - <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/cbe310da-0731-4e9a-adfa-b5be22fcff82" /> Python
