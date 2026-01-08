@@ -7,7 +7,7 @@ i'm a software engineer student at Aalborg University (AAU), with a background i
 
 - <img width="15" alt="image" src="https://github.com/user-attachments/assets/71c29e02-949d-472b-a24c-0fe97c7cdade" /> C
 
-### Currently projects:
+### Current ongoing projects:
 - Cobra (Privacy browser)
 - LockedPocket (Password manager)
 - StockGuru (Stock analyzing tool)
