@@ -1,6 +1,5 @@
+### Software engineer student
 ![](./hacker-pc.gif)
-
-Software engineer student
 
 ### Languages (ranked by confidence)
 1) <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/cbe310da-0731-4e9a-adfa-b5be22fcff82" /> Python
