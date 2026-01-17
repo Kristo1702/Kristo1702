@@ -1,6 +1,6 @@
-## Well, hello there 👋
+![im in]([https://.../something.gif](https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-957418705100170940))
 
-i'm a software engineering student at Aalborg University (AAU), with a background in physics from Copenhagen University (KU).
+Software engineer student
 
 ### Programming language i work in (ranked in level of confidence):
 - <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/cbe310da-0731-4e9a-adfa-b5be22fcff82" /> Python
