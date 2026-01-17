@@ -1,4 +1,4 @@
-![im in]([https://.../something.gif](https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-957418705100170940))
+![](./hacker-pc.gif)
 
 Software engineer student
 
