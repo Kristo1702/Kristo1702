@@ -6,7 +6,7 @@
 
 2) <img width="15" alt="image" src="https://github.com/user-attachments/assets/71c29e02-949d-472b-a24c-0fe97c7cdade" /> C
 
-### Current ongoing projects:
+### Ongoing projects:
 - Cobra (Web browser)
 - LockedPocket (Password manager)
 - StockGuru (Stock analyzing tool)
