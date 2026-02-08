@@ -10,3 +10,4 @@
 - Cobra (Web browser)
 - LockedPocket (Password manager)
 - StockGuru (Stock analyzing tool)
+- WordFeud solver (by image recognition)
