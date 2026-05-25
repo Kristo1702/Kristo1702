@@ -1,4 +1,4 @@
-# Software engineer student
+# Software engineering student
 ![](./hacker-pc.gif)
 
 ### Languages (ranked by confidence)
