@@ -11,6 +11,7 @@
 
 ### Ongoing projects:
 - Cobra (Web browser)
+- Lønix (personal salary manager)
 - LockedPocket (Password manager)
 - StockGuru (Stock analyzing tool)
 - WordFeud solver (by image recognition)
